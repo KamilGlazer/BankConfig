@@ -2,9 +2,9 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to  "
   contactDetails:
-    name: "Kamil - Developer"
+    name: "Tomasz - Developer"
     email: "{cipher}8855b02670f90425a6203cbe134c7ee571085fda8b563daa8e3acfd3527c76bf329cfd35561a0b2d6d0a9d1d6daea18c"
   onCallSupport:
     - (555) 555-1234
